@@ -2,7 +2,7 @@
 from models.SET_DBN import *
 
 # Define parameters
-HIDDEN_UNITS = [1024, 1024, 1024]
+HIDDEN_UNITS = [100, 100, 100]
 EPSILON=10
 BATCH_SIZE=100
 EPOCHS=2
